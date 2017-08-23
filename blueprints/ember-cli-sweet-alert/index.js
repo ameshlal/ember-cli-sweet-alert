@@ -6,6 +6,6 @@ module.exports = {
   },
 
   afterInstall: function () {
-    return this.addBowerPackageToProject('sweetalert', '~1.1.0');
+    return this.addBowerPackageToProject('sweetalert', 'ashu07/sweetalert#b3d7b6a782a60f594d6e4193edae541d729fb094');
   }
 };
