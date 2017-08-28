@@ -6,6 +6,6 @@ module.exports = {
   },
 
   afterInstall: function () {
-    return this.addBowerPackageToProject('sweetalert', 'ashu07/sweetalert#d9e4a83f5f5f010d15fac838c1a7798a7819ce04');
+    return this.addBowerPackageToProject('sweetalert', 'ashu07/sweetalert#c5df985144936f9f89fd5df2d458d8153f33796b');
   }
 };
