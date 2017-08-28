@@ -12,6 +12,6 @@
     "jquery": "^1.11.1",
     "loader.js": "ember-cli/loader.js#3.2.0",
     "qunit": "~1.17.1",
-    "sweetalert": "ashu07/sweetalert#b3d7b6a782a60f594d6e4193edae541d729fb094"
+    "sweetalert": "ashu07/sweetalert#c5df985144936f9f89fd5df2d458d8153f33796b"
   }
 }
